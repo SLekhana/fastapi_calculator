@@ -109,7 +109,8 @@ fastapi_calculator/
 
 ## Author
 
-Your Name / GitHub: [YOUR_USERNAME](https://github.com/SLekhana)
+Your Name / GitHub: [SLekhana](https://github.com/SLekhana)
 
 ```
+
 
