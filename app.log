@@ -1,0 +1,16 @@
+2025-11-03 16:27:48.812 | INFO     | app.main:add_numbers:15 - Add 2.0 + 3.0 = 5.0
+2025-11-03 16:27:48.814 | INFO     | app.main:subtract_numbers:21 - Subtract 7.0 - 2.0 = 5.0
+2025-11-03 16:27:48.815 | INFO     | app.main:multiply_numbers:27 - Multiply 3.0 * 4.0 = 12.0
+2025-11-03 16:27:48.816 | INFO     | app.main:divide_numbers:34 - Divide 10.0 / 2.0 = 5.0
+2025-11-03 16:30:46.997 | INFO     | app.main:add_numbers:15 - Add 2.0 + 3.0 = 5.0
+2025-11-03 16:30:46.998 | INFO     | app.main:subtract_numbers:21 - Subtract 7.0 - 2.0 = 5.0
+2025-11-03 16:30:46.999 | INFO     | app.main:multiply_numbers:27 - Multiply 3.0 * 4.0 = 12.0
+2025-11-03 16:30:47.000 | INFO     | app.main:divide_numbers:34 - Divide 10.0 / 2.0 = 5.0
+2025-11-03 16:32:17.579 | INFO     | app.main:add_numbers:15 - Add 2.0 + 3.0 = 5.0
+2025-11-03 16:32:17.581 | INFO     | app.main:subtract_numbers:21 - Subtract 7.0 - 2.0 = 5.0
+2025-11-03 16:32:17.582 | INFO     | app.main:multiply_numbers:27 - Multiply 3.0 * 4.0 = 12.0
+2025-11-03 16:32:17.583 | INFO     | app.main:divide_numbers:34 - Divide 10.0 / 2.0 = 5.0
+2025-11-03 16:32:39.532 | INFO     | app.main:add_numbers:15 - Add 2.0 + 3.0 = 5.0
+2025-11-03 16:32:39.533 | INFO     | app.main:subtract_numbers:21 - Subtract 7.0 - 2.0 = 5.0
+2025-11-03 16:32:39.535 | INFO     | app.main:multiply_numbers:27 - Multiply 3.0 * 4.0 = 12.0
+2025-11-03 16:32:39.536 | INFO     | app.main:divide_numbers:34 - Divide 10.0 / 2.0 = 5.0
